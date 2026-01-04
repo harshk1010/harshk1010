@@ -69,11 +69,10 @@
 
 ## 📊 My GitHub Stats
 
-<!-- GitHub stats cards - you can customize these from https://github.com/anuraghazra/github-readme-stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshk1010&show_icons=true&theme=default)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshk1010&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshk1010&layout=compact&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshk1010&show_icons=true&theme=dark)
 
 ---
 
