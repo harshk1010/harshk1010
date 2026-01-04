@@ -69,9 +69,11 @@
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshk1010&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshk1010)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshk1010&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshk1010)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harshk1010)
 
 
 ---
