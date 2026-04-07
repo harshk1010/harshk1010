@@ -46,10 +46,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshk1010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshk1010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshk1010&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshk1010&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
